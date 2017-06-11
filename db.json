@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 14,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "nature.ru",
+      "author": "природа",
+      "id": 15
+    },
+    {
+      "title": "nature.ru",
+      "author": "природа",
+      "id": 16
+    },
+    {
+      "title": "nature.ru",
+      "author": "природа",
+      "id": 17
+    },
+    {
+      "title": "nature.ru",
+      "author": "природа",
+      "id": 18
+    },
+    {
+      "title": "nature.ru",
+      "author": "hd67fjd",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "ya.ru": "news"
+  }
+}
