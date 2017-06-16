@@ -1,21 +1,6 @@
 {
   "posts": [
     {
-      "id": 14,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "title": "nature.ru",
-      "author": "природа",
-      "id": 15
-    },
-    {
-      "title": "nature.ru",
-      "author": "природа",
-      "id": 16
-    },
-    {
       "title": "nature.ru",
       "author": "природа",
       "id": 17
@@ -29,13 +14,115 @@
       "title": "nature.ru",
       "author": "hd67fjd",
       "id": 19
+    },
+    {
+      "title": "nature.ru",
+      "author": "hgy7dkwmb7de8rh",
+      "id": 20
     }
   ],
-  "comments": [
+  "keywords": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "category": "суд",
+      "word": "присяжн",
+      "weight": "0.3",
+      "id": 1
+    },
+    {
+      "category": "суд",
+      "word": "суд",
+      "weight": "0.7",
+      "id": 2
+    },
+    {
+      "category": "суд",
+      "word": "обвиня",
+      "weight": "0.4",
+      "id": 3
+    },
+    {
+      "category": "суд",
+      "word": "заключен",
+      "weight": "0.9",
+      "id": 4
+    },
+    {
+      "category": "суд",
+      "word": "приговорен",
+      "weight": "0.8",
+      "id": 5
+    },
+    {
+      "category": "природа",
+      "word": "дерев",
+      "weight": "0.5",
+      "id": 6
+    },
+    {
+      "category": "природа",
+      "word": "лесн",
+      "weight": "0.6",
+      "id": 7
+    },
+    {
+      "category": "природа",
+      "word": "птиц",
+      "weight": "0.4",
+      "id": 8
+    },
+    {
+      "category": "природа",
+      "word": "животн",
+      "weight": "0.6",
+      "id": 9
+    },
+    {
+      "category": "природа",
+      "word": "растен",
+      "weight": "0.7",
+      "id": 10
+    },
+    {
+      "category": "компьютеры",
+      "word": "памят",
+      "weight": "0.2",
+      "id": 11
+    },
+    {
+      "category": "компьютеры",
+      "word": "процессорн",
+      "weight": "0.4",
+      "id": 12
+    },
+    {
+      "category": "компьютеры",
+      "word": "клавиатур",
+      "weight": "0.5",
+      "id": 13
+    },
+    {
+      "category": "компьютеры",
+      "word": "мыш",
+      "weight": "0.4",
+      "id": 14
+    },
+    {
+      "category": "компьютеры",
+      "word": "монитор",
+      "weight": "0.7",
+      "id": 15
+    },
+    {
+      "category": "суд",
+      "word": "растен",
+      "weight": "0.5",
+      "id": 16
+    },
+    {
+      "category": "суд",
+      "word": "дерев",
+      "weight": "0.4",
+      "id": 17
     }
   ],
   "profile": {
